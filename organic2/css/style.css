@@ -1,0 +1,113 @@
+#header {
+
+    background-image: url("../img/home.jpg");
+    background-position: 40% 30%;
+    background-size: 200%;
+    height: 100vh;
+    position: relative;
+    color: #fff;
+}
+
+.black-opacity {
+
+    background-color: rgba(0,0,0,0.75);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.jumbotron {
+
+    background-color: transparent;
+    margin-bottom : 0em;
+}
+
+.nav-item a {
+
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.mrg-bot {
+
+    margin-bottom: 0.5em;
+
+}
+
+.mrg-top {
+
+    margin-top: 0.5em;
+
+}
+
+.jumbotron h1 {
+
+    margin-top: 2em;
+    text-transform: capitalize;
+}
+
+.jumbotron a {
+
+    margin-top : 3em ;
+    
+} 
+
+#about-txt {
+
+    margin-bottom: 5em;
+    color:#696969;
+    padding: 0 8em;
+    text-align: center;
+
+}
+
+.about-box {
+
+    border: solid 1px #696969;
+    padding: 2em;
+
+}
+
+.about-box h3 {
+
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 1em;
+
+}
+
+.about-box p {
+
+    text-align: center;
+    font-size: 0.85em;
+    
+
+}
+
+.cont-icon {
+    
+    margin:0 auto;
+    width: 60px;
+    margin-top : -1.5em;
+    margin-bottom: 1em;
+    font-size: 2.5em;
+    background: #fff;
+    color: #5233ff;
+    text-align: center;
+}
+
+.bg-mrg-top {
+
+    margin-top: 3em;
+
+}
+
+#about h2 {
+
+    text-transform: capitalize;
+    margin-top : 2em;
+    margin-bottom: 2em;
+
+}
