@@ -45,7 +45,6 @@ function raz() {
 
 // Exercice 5 + 6
 //https://developer.mozilla.org/fr/docs/Web/API/Element/mouseout_event
-
 function changeExo5(currentImg) {
 
     var idImage = currentImg.id
